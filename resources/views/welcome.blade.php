@@ -5,9 +5,9 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="Udema a modern educational site template">
+    <meta name="description" content="Aprende excel desde cero">
     <meta name="author" content="Ansonika">
-    <title>UDEMA | Modern Educational site template - SHARED ON THEMELOCK.COM</title>
+    <title>Aprende Excel de 0</title>
 
     <!-- Favicons-->
     <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
@@ -310,10 +310,10 @@
 			<div class="row">
 				<div class="col-lg-5 col-md-12 p-r-5">
 					<p><img src="img/logo.png" width="149" height="42" data-retina="true" alt=""></p>
-					<p>Mea nibh meis philosophia eu. Duis legimus efficiantur ea sea. Domina Excel. Aprende desde los tips más básicos hasta gráficos y tablas dinámicas Nihil facilisi indoctum an vix, ut delectus expetendis vis.</p>
+					<p>Todos los derechos reservados</p>
 					<div class="follow_us">
 						<ul>
-							<li>Follow us</li>
+							<li>Síguenos</li>
 							<li><a href="#0"><i class="ti-facebook"></i></a></li>
 							<li><a href="#0"><i class="ti-twitter-alt"></i></a></li>
 							<li><a href="#0"><i class="ti-google"></i></a></li>
@@ -323,26 +323,21 @@
 					</div>
 				</div>
 				<div class="col-lg-3 col-md-6 ml-lg-auto">
-					<h5>Useful links</h5>
+					<h5>Links útiles</h5>
 					<ul class="links">
-						<li><a href="#0">Admission</a></li>
-						<li><a href="#0">About</a></li>
-						<li><a href="#0">Login</a></li>
-						<li><a href="#0">Register</a></li>
-						<li><a href="#0">News &amp; Events</a></li>
-						<li><a href="#0">Contacts</a></li>
+						<li><a href="#admision">Admisión</a></li>
 					</ul>
 				</div>
 				<div class="col-lg-3 col-md-6">
-					<h5>Contact with Us</h5>
+					<h5>Contáctanos</h5>
 					<ul class="contacts">
-						<li><a href="tel://61280932400"><i class="ti-mobile"></i> + 61 23 8093 3400</a></li>
-						<li><a href="mailto:info@udema.com"><i class="ti-email"></i> info@udema.com</a></li>
+						<li><a href="tel://61280932400"><i class="ti-mobile"></i> +569 7765 2935</a></li>
+						<li><a href="mailto:info@gestionexcel.com"><i class="ti-email"></i> info@gestionexcel.com</a></li>
 					</ul>
 					<div id="newsletter">
 					<h6>Newsletter</h6>
 					<div id="message-newsletter"></div>
-					<form method="post" action="assets/newsletter.php" name="newsletter_form" id="newsletter_form">
+					<form method="post" action="#contacto" name="newsletter_form" id="newsletter_form">
 						<div class="form-group">
 							<input type="email" name="email_newsletter" id="email_newsletter" class="form-control" placeholder="Your email">
 							<input type="submit" value="Submit" id="submit-newsletter">
@@ -356,12 +351,12 @@
 			<div class="row">
 				<div class="col-md-8">
 					<ul id="additional_links">
-						<li><a href="#0">Terms and conditions</a></li>
-						<li><a href="#0">Privacy</a></li>
+						<li><a href="#0">Términos y condiciones</a></li>
+						<li><a href="#0">Política de privacidad</a></li>
 					</ul>
 				</div>
 				<div class="col-md-4">
-					<div id="copy">© 2017 Udema</div>
+					<div id="copy">© 2017 gestionexcel</div>
 				</div>
 			</div>
 		</div>
