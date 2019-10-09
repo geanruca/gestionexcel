@@ -43,13 +43,13 @@
 			<li class="hidden_tablet"><a href="#admision" class="btn_1 rounded">Admisión</a></li>
 		</ul>
 		<!-- /top_menu -->
-		{{-- <a href="#menu" class="btn_mobile">
+		<a href="#menu" class="btn_mobile">
 			<div class="hamburger hamburger--spin" id="hamburger">
 				<div class="hamburger-box">
-					<div class="hamburger-inner"></div>
+					{{-- <div class="hamburger-inner"></div> --}}
 				</div>
 			</div>
-		</a> --}}
+		</a>
 		<nav id="menu" class="main-menu">
 			{{-- <ul>
 				<li><span><a href="#0">Home</a></span>
