@@ -150,7 +150,7 @@
                 <a href="#0" class="img_container">
                     <img src="img/excel3.png" alt="">
                     <div class="short_info">
-                        <h3><strong>Y por su puesto: </strong>Tablas dinámicas</h3>
+                        <h3><strong>También: </strong>Tablas dinámicas</h3>
                     </div>
                 </a>
             </li>
