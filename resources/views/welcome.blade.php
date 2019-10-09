@@ -67,7 +67,7 @@
 						<li><a href="courses-grid-sidebar.html">Courses grid sidebar</a></li>
 						<li><a href="courses-list.html">Courses list</a></li>
 						<li><a href="courses-list-sidebar.html">Courses list sidebar</a></li>
-						<li><a href="course-detail.html">Course detail</a></li>
+						<li><a href="https://www.flow.cl/btn.php?token=1m19eam">Course detail</a></li>
                         <li><a href="course-detail-2.html">Course detail working form</a></li>
 						<li><a href="admission.html">Admission wizard</a></li>
 						<li><a href="teacher-detail.html">Teacher detail</a></li>
@@ -168,7 +168,7 @@
 					<div class="box_grid">
 						<figure>
 							<a href="#0" class="wish_bt"></a>
-							<a href="course-detail.html">
+							<a href="https://www.flow.cl/btn.php?token=1m19eam">
 								<div class="preview"><span>Preview course</span></div><img src="/img/excel1.webp" class="img-fluid" alt=""></a>
 							<div class="price">$100.000</div>
 
@@ -181,7 +181,7 @@
 						</div>
 						<ul>
 							<li><i class="icon_clock_alt"></i> 4 clases de 4 horas</li>
-							<li><a href="course-detail.html">Comprar ahora</a></li>
+							<li><a href="https://www.flow.cl/btn.php?token=1m19eam">Comprar ahora</a></li>
 						</ul>
 					</div>
 				</div>
@@ -190,7 +190,7 @@
 					<div class="box_grid">
 						<figure>
 							<a href="#0" class="wish_bt"></a>
-							<a href="course-detail.html"><img src="/img/excel1.webp" class="img-fluid" alt=""></a>
+							<a href="https://www.flow.cl/btn.php?token=1m19eam"><img src="/img/excel1.webp" class="img-fluid" alt=""></a>
 							<div class="price">$100.000</div>
 							<div class="preview"><span>Preview course</span></div>
 						</figure>
@@ -202,7 +202,7 @@
 						</div>
 						<ul>
 							<li><i class="icon_clock_alt"></i>4 clases de 4 horas</li>
-							<li><a href="course-detail.html">Comprar ahora</a></li>
+							<li><a href="https://www.flow.cl/btn.php?token=1m19eam">Comprar ahora</a></li>
 						</ul>
 					</div>
 				</div>
@@ -211,7 +211,7 @@
 					<div class="box_grid">
 						<figure>
 							<a href="#0" class="wish_bt"></a>
-							<a href="course-detail.html"><img src="/img/excel1.webp" class="img-fluid" alt=""></a>
+							<a href="https://www.flow.cl/btn.php?token=1m19eam"><img src="/img/excel1.webp" class="img-fluid" alt=""></a>
 							<div class="price">$100.000</div>
 							<div class="preview"><span>Preview course</span></div>
 						</figure>
@@ -223,7 +223,7 @@
 						</div>
 						<ul>
 							<li><i class="icon_clock_alt"></i>4 clases de 4 horas</li>
-							<li><a href="course-detail.html">Comprar ahora</a></li>
+							<li><a href="https://www.flow.cl/btn.php?token=1m19eam">Comprar ahora</a></li>
 						</ul>
 					</div>
 				</div>
@@ -232,7 +232,7 @@
 					<div class="box_grid">
 						<figure>
 							<a href="#0" class="wish_bt"></a>
-							<a href="course-detail.html"><img src="/img/excel1.webp" class="img-fluid" alt=""></a>
+							<a href="https://www.flow.cl/btn.php?token=1m19eam"><img src="/img/excel1.webp" class="img-fluid" alt=""></a>
 							<div class="price">$100.000</div>
 							<div class="preview"><span>Preview course</span></div>
 						</figure>
@@ -244,7 +244,7 @@
 						</div>
 						<ul>
 							<li><i class="icon_clock_alt"></i>4 clases de 4 horas</li>
-							<li><a href="course-detail.html">Comprar ahora</a></li>
+							<li><a href="https://www.flow.cl/btn.php?token=1m19eam">Comprar ahora</a></li>
 						</ul>
 					</div>
 				</div>
@@ -253,7 +253,7 @@
 					<div class="box_grid">
 						<figure>
 							<a href="#0" class="wish_bt"></a>
-							<a href="course-detail.html"><img src="/img/excel1.webp" class="img-fluid" alt=""></a>
+							<a href="https://www.flow.cl/btn.php?token=1m19eam"><img src="/img/excel1.webp" class="img-fluid" alt=""></a>
 							<div class="price">$100.000</div>
 							<div class="preview"><span>Preview course</span></div>
 						</figure>
@@ -265,7 +265,7 @@
 						</div>
 						<ul>
 							<li><i class="icon_clock_alt"></i>4 clases de 4 horas</li>
-							<li><a href="course-detail.html">Comprar ahora</a></li>
+							<li><a href="https://www.flow.cl/btn.php?token=1m19eam">Comprar ahora</a></li>
 						</ul>
 					</div>
 				</div>
@@ -274,7 +274,7 @@
 					<div class="box_grid">
 						<figure>
 							<a href="#0" class="wish_bt"></a>
-							<a href="course-detail.html"><img src="/img/excel1.webp" class="img-fluid" alt=""></a>
+							<a href="https://www.flow.cl/btn.php?token=1m19eam"><img src="/img/excel1.webp" class="img-fluid" alt=""></a>
 							<div class="price">$100.000</div>
 							<div class="preview"><span>Preview course</span></div>
 						</figure>
@@ -286,7 +286,7 @@
 						</div>
 						<ul>
 							<li><i class="icon_clock_alt"></i>4 clases de 4 horas</li>
-							<li><a href="course-detail.html">Comprar ahora</a></li>
+							<li><a href="https://www.flow.cl/btn.php?token=1m19eam">Comprar ahora</a></li>
 						</ul>
 					</div>
 				</div>
