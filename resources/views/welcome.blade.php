@@ -176,7 +176,7 @@
 						<div class="wrapper">
 							<small>Básico a Medio-Avanzado</small>
 							<h3>Curso de Noviembre 2019</h3>
-							<p>Domina Excel. Aprende desde los tips más básicos hasta gráficos y tablas dinámicas</p>
+							<p>Domina Excel. Aprende desde los tips más básicos hasta gráficos y tablas dinámicas. Clases los días sábado en Preusat, Ciudad Satélite, Maipú.</p>
 							<div class="rating"><i class="icon_star voted"></i><i class="icon_star voted"></i><i class="icon_star voted"></i><i class="icon_star voted"></i><i class="icon_star voted"></i> <small></small></div>
 						</div>
 						<ul>
@@ -197,7 +197,7 @@
 						<div class="wrapper">
 							<small>Básico a Medio-Avanzado</small>
 							<h3>Curso de Diciembre 2019</h3>
-							<p>Domina Excel. Aprende desde los tips más básicos hasta gráficos y tablas dinámicas</p>
+							<p>Domina Excel. Aprende desde los tips más básicos hasta gráficos y tablas dinámicas. Clases los días sábado en Preusat, Ciudad Satélite, Maipú.</p>
 							<div class="rating"><i class="icon_star voted"></i><i class="icon_star voted"></i><i class="icon_star voted"></i><i class="icon_star voted"></i><i class="icon_star voted"></i> <small></small></div>
 						</div>
 						<ul>
@@ -218,7 +218,7 @@
 						<div class="wrapper">
 							<small>Básico a Medio-Avanzado</small>
 							<h3>Curso de Enero 2020</h3>
-							<p>Domina Excel. Aprende desde los tips más básicos hasta gráficos y tablas dinámicas</p>
+							<p>Domina Excel. Aprende desde los tips más básicos hasta gráficos y tablas dinámicas. Clases los días sábado en Preusat, Ciudad Satélite, Maipú.</p>
 							<div class="rating"><i class="icon_star voted"></i><i class="icon_star voted"></i><i class="icon_star voted"></i><i class="icon_star voted"></i><i class="icon_star voted"></i> <small></small></div>
 						</div>
 						<ul>
@@ -239,7 +239,7 @@
 						<div class="wrapper">
 							<small>Básico a Medio-Avanzado</small>
 							<h3>Curso de Febrero 2020</h3>
-							<p>Domina Excel. Aprende desde los tips más básicos hasta gráficos y tablas dinámicas</p>
+							<p>Domina Excel. Aprende desde los tips más básicos hasta gráficos y tablas dinámicas. Clases los días sábado en Preusat, Ciudad Satélite, Maipú.</p>
 							<div class="rating"><i class="icon_star voted"></i><i class="icon_star voted"></i><i class="icon_star voted"></i><i class="icon_star voted"></i><i class="icon_star voted"></i> <small></small></div>
 						</div>
 						<ul>
@@ -260,7 +260,7 @@
 						<div class="wrapper">
 							<small>Básico a Medio-Avanzado</small>
 							<h3>Curso de Marzo 2020</h3>
-							<p>Domina Excel. Aprende desde los tips más básicos hasta gráficos y tablas dinámicas</p>
+							<p>Domina Excel. Aprende desde los tips más básicos hasta gráficos y tablas dinámicas. Clases los días sábado en Preusat, Ciudad Satélite, Maipú.</p>
 							<div class="rating"><i class="icon_star voted"></i><i class="icon_star voted"></i><i class="icon_star voted"></i><i class="icon_star voted"></i><i class="icon_star voted"></i> <small></small></div>
 						</div>
 						<ul>
@@ -281,7 +281,7 @@
 						<div class="wrapper">
 							<small>Básico a Medio-Avanzado</small>
 							<h3>Curso de Abril 2020</h3>
-							<p>Domina Excel. Aprende desde los tips más básicos hasta gráficos y tablas dinámicas</p>
+							<p>Domina Excel. Aprende desde los tips más básicos hasta gráficos y tablas dinámicas. Clases los días sábado en Preusat, Ciudad Satélite, Maipú.</p>
 							<div class="rating"><i class="icon_star voted"></i><i class="icon_star voted"></i><i class="icon_star voted"></i><i class="icon_star voted"></i><i class="icon_star voted"></i> <small></small></div>
 						</div>
 						<ul>
