@@ -142,7 +142,7 @@
                 <a href="#0" class="img_container">
                     <img src="img/excel2.jpg" alt="">
                     <div class="short_info">
-                        <h3><strong>Usar y crear</strong>Funciones</h3>
+                        <h3><strong>Usar </strong>Funciones</h3>
                     </div>
                 </a>
             </li>
@@ -150,7 +150,7 @@
                 <a href="#0" class="img_container">
                     <img src="img/excel3.png" alt="">
                     <div class="short_info">
-                        <h3><strong>También: </strong>Tablas dinámicas</h3>
+                        <h3><strong>Crear </strong>Tablas dinámicas</h3>
                     </div>
                 </a>
             </li>
