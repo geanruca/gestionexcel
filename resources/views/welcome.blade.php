@@ -180,7 +180,7 @@
 							<div class="rating"><i class="icon_star voted"></i><i class="icon_star voted"></i><i class="icon_star voted"></i><i class="icon_star voted"></i><i class="icon_star voted"></i> <small></small></div>
 						</div>
 						<ul>
-							<li><i class="icon_clock_alt"></i> 4 clases de 4 horas</li>
+							<li><i class="icon_clock_alt"></i> 4 clases</li>
 							<li><a href="https://www.flow.cl/btn.php?token=1m19eam">Comprar ahora</a></li>
 						</ul>
 					</div>
@@ -201,7 +201,7 @@
 							<div class="rating"><i class="icon_star voted"></i><i class="icon_star voted"></i><i class="icon_star voted"></i><i class="icon_star voted"></i><i class="icon_star voted"></i> <small></small></div>
 						</div>
 						<ul>
-							<li><i class="icon_clock_alt"></i>4 clases de 4 horas</li>
+							<li><i class="icon_clock_alt"></i>4 clases</li>
 							<li><a href="https://www.flow.cl/btn.php?token=1m19eam">Comprar ahora</a></li>
 						</ul>
 					</div>
@@ -222,7 +222,7 @@
 							<div class="rating"><i class="icon_star voted"></i><i class="icon_star voted"></i><i class="icon_star voted"></i><i class="icon_star voted"></i><i class="icon_star voted"></i> <small></small></div>
 						</div>
 						<ul>
-							<li><i class="icon_clock_alt"></i>4 clases de 4 horas</li>
+							<li><i class="icon_clock_alt"></i>4 clases</li>
 							<li><a href="https://www.flow.cl/btn.php?token=1m19eam">Comprar ahora</a></li>
 						</ul>
 					</div>
@@ -243,7 +243,7 @@
 							<div class="rating"><i class="icon_star voted"></i><i class="icon_star voted"></i><i class="icon_star voted"></i><i class="icon_star voted"></i><i class="icon_star voted"></i> <small></small></div>
 						</div>
 						<ul>
-							<li><i class="icon_clock_alt"></i>4 clases de 4 horas</li>
+							<li><i class="icon_clock_alt"></i>4 clases</li>
 							<li><a href="https://www.flow.cl/btn.php?token=1m19eam">Comprar ahora</a></li>
 						</ul>
 					</div>
@@ -264,7 +264,7 @@
 							<div class="rating"><i class="icon_star voted"></i><i class="icon_star voted"></i><i class="icon_star voted"></i><i class="icon_star voted"></i><i class="icon_star voted"></i> <small></small></div>
 						</div>
 						<ul>
-							<li><i class="icon_clock_alt"></i>4 clases de 4 horas</li>
+							<li><i class="icon_clock_alt"></i>4 clases</li>
 							<li><a href="https://www.flow.cl/btn.php?token=1m19eam">Comprar ahora</a></li>
 						</ul>
 					</div>
@@ -285,7 +285,7 @@
 							<div class="rating"><i class="icon_star voted"></i><i class="icon_star voted"></i><i class="icon_star voted"></i><i class="icon_star voted"></i><i class="icon_star voted"></i> <small></small></div>
 						</div>
 						<ul>
-							<li><i class="icon_clock_alt"></i>4 clases de 4 horas</li>
+							<li><i class="icon_clock_alt"></i>4 clases</li>
 							<li><a href="https://www.flow.cl/btn.php?token=1m19eam">Comprar ahora</a></li>
 						</ul>
 					</div>
