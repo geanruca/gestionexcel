@@ -13,7 +13,7 @@
         <div class="container margin_120_95">
             <div class="row justify-content-between">
                 <div class="col-lg-6">
-                    <h4>Formulario de contacto</h4>
+                    <h4>Envìe sus consultas. Responderemos a la brevedad.</h4>
                     <div id="message-contact"></div>
                     <form method="POST" action="{{ route('enviar_contacto') }}" autocomplete="on">
                         @CSRF
