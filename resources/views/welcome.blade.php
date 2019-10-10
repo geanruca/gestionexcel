@@ -34,7 +34,7 @@
                 <a href="#0" class="img_container">
                     <img src="img/excel3.png" alt="">
                     <div class="short_info">
-                        <h3><strong>OBJETIVO DEL CURSO </strong>El alumno quedará en condiciones de hacer fórmulas de complejidad simple e intermedia. Crear, manipular y entender tablas dinámicas, manejo de filtros y formatos condicionales, así como crear macros</h3>
+                        <h3><strong>OBJETIVO DEL CURSO </strong>El alumno aprenderá a hacer: fórmulas, tablas dinámicas, filtros y formatos condicionales, así como crear macros</h3>
                     </div>
                 </a>
             </li>
