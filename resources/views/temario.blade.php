@@ -12,280 +12,121 @@
     <div class="bg_color_1">
         <div class="container margin_60_35">
             <div class="row">
-                <div class="col-lg-8">
+                <div class="col-lg-12 col-sm-12">
                     <section id="description">
-                        <h2>Description</h2>
-                        <p>Per consequat adolescens ex, cu nibh commune temporibus vim, ad sumo viris eloquentiam sed. Mea appareat omittantur eloquentiam ad, nam ei quas oportere democritum. Prima causae admodum id est, ei timeam inimicus sed. Sit an meis aliquam, cetero inermis vel ut. An sit illum euismod facilisis, tamquam vulputate pertinacia eum at.</p>
-                        <h5>What will you learn</h5>
-                        <ul class="list_ok">
-                            <li>
-                                <h6>Suas summo id sed erat erant oporteat</h6>
-                                <p>Ut unum diceret eos, mel cu velit principes, ut quo inani dolorem mediocritatem. Mea in justo posidonium necessitatibus.</p>
-                            </li>
-                            <li>
-                                <h6>Illud singulis indoctum ad sed</h6>
-                                <p>Ut unum diceret eos, mel cu velit principes, ut quo inani dolorem mediocritatem. Mea in justo posidonium necessitatibus.</p>
-                            </li>
-                            <li>
-                                <h6>Alterum bonorum mentitum an mel</h6>
-                                <p>Ut unum diceret eos, mel cu velit principes, ut quo inani dolorem mediocritatem. Mea in justo posidonium necessitatibus.</p>
-                            </li>
-                        </ul>
-                        <hr>
-                        <p>Mea appareat omittantur eloquentiam ad, nam ei quas oportere democritum. Prima causae admodum id est, ei timeam inimicus sed. Sit an meis aliquam, cetero inermis vel ut. An sit illum euismod facilisis, tamquam vulputate pertinacia eum at.</p>
-                        <div class="row">
-                            <div class="col-lg-6">
-                                <ul class="bullets">
-                                    <li>Dolorem mediocritatem</li>
-                                    <li>Mea appareat</li>
-                                    <li>Prima causae</li>
-                                    <li>Singulis indoctum</li>
-                                </ul>
-                            </div>
-                            <div class="col-lg-6">
-                                <ul class="bullets">
-                                    <li>Timeam inimicus</li>
-                                    <li>Oportere democritum</li>
-                                    <li>Cetero inermis</li>
-                                    <li>Pertinacia eum</li>
-                                </ul>
-                            </div>
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <h2>Objetivo del curso</h2>
+                            <ul class="list_ok">
+                                <li>
+                                    <h6>Hacer Fórmulas</h6>
+                                    <p> De complejidad simple e intermedia</p>
+                                </li>
+                                <li>
+                                    <h6>Gráficos</h6>
+                                    <p>Para dar una perspectiva visual a la información estudiada.</p>
+                                </li>
+                                <li>
+                                    <h6>Tablas dinámicas</h6>
+                                    <p>Podrá hacer, manipular y entender tablas dinámicas a un nivel intermedio avanzado.</p>
+                                </li>
+                                <li>
+                                    <h6>Manejo de filtros</h6>
+                                    <p>Para ordenar y limitar datos a la vista</p>
+                                </li>
+                                <li>
+                                    <h6>Formatos condicionales</h6>
+                                    <p>Para mostrar alertas</p>
+                                </li>
+                                <li>
+                                    <h6>Macros</h6>
+                                    <p>El alumno aprenderá a hacer macros a nivel de usuario</p>
+                                </li>
+                            </ul>
+                            <h2>REQUISITOS DEL CURSO:</h2>
+                            <h4 class="text-danger"><b> - Tener Notebook con Excel (2007, 2010 ó 2013) </b></h4>
                         </div>
+                        <div class="box_detail col-lg-6 col-md-6">
+                            <img src="/img/excelql.png" alt="" class="img-fluid">
+                            <div class="price">
+                                $100.000<span class="original_price"><em>$200.000</em>50% dcto</span>
+                            </div>
+                            <a href="#0" class="btn_1 full-width">Comprar</a>
+                        </div>
+                    </div>    
+                        
+                        
                         <!-- /row -->
                     </section>
                     <!-- /section -->
                     
                     <section id="lessons">
                         <div class="intro_title">
-                            <h2>Lessons</h2>
+                            <h2>Tópicos</h2>
                             <ul>
-                                <li>18 lessons</li>
-                                <li>01:02:10</li>
+                                <li>15 tópicos</li>
                             </ul>
                         </div>
                         <div id="accordion_lessons" role="tablist" class="add_bottom_45">
                             <div class="card">
                                 <div class="card-header" role="tab" id="headingOne">
                                     <h5 class="mb-0">
-                                        <a data-toggle="collapse" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne"><i class="indicator ti-minus"></i> Introdocution</a>
+                                        <a data-toggle="collapse" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne"><i class="indicator ti-minus"></i> Temario</a>
                                     </h5>
                                 </div>
 
-                                <div id="collapseOne" class="collapse show" role="tabpanel" aria-labelledby="headingOne" data-parent="#accordion_lessons">
+                                <div id="collapseOne" class="collapse" role="tabpanel" aria-labelledby="headingOne" data-parent="#accordion_lessons">
                                     <div class="card-body">
                                         <div class="list_lessons">
                                             <ul>
-                                                <li><a href="https://www.youtube.com/watch?v=LDgd_gUcqCw" class="video">Health Science</a><span>00:59</span></li>
-                                                <li><a href="https://www.youtube.com/watch?v=LDgd_gUcqCw" class="video">Health and Social Care</a><span>00:59</span></li>
-                                                <li><a href="#0" class="txt_doc">Audiology</a><span>00:59</span></li>
+                                                <li><a href="#0" class="txt_doc">Conceptos de Planilla de Cálculo</a><span>00:59</span></li>
+                                                <li><a href="#0" class="txt_doc">Personalizar Barra de Acceso Rápido</a><span>00:59</span></li>
+                                                <li><a href="#0" class="txt_doc">Crear, Guardar y Recuperar archivos</a><span>00:59</span></li>
+                                                <li><a href="#0" class="txt_doc">Fórmulas Simples (suma, Minimo, Máximo, promedio)</a><span>00:59</span></li>
+                                                <li><a href="#0" class="txt_doc">Funciones de Fecha y Funciones de Texto</a><span>00:59</span></li>
+                                                <li><a href="#0" class="txt_doc">Referencias Relativas, Absolutas y Mixtas</a><span>00:59</span></li>
+                                                <li><a href="#0" class="txt_doc">Fórmulas avanzadas (Buscarv, BuscarH)</a><span>00:59</span></li>
+                                                <li><a href="#0" class="txt_doc">Filtros y uso de subtotales</a><span>00:59</span></li>
+                                                <li><a href="#0" class="txt_doc">Formatos de Celdas</a><span>00:59</span></li>
+                                                <li><a href="#0" class="txt_doc">Crear y aplicar formatos a un gráfico</a><span>00:59</span></li>
+                                                <li><a href="#0" class="txt_doc">Impresión de Documentos</a><span>00:59</span></li>
+                                                <li><a href="#0" class="txt_doc">Creación de Listas</a><span>00:59</span></li>
+                                                <li><a href="#0" class="txt_doc">Validación de Datos</a><span>00:59</span></li>
+                                                <li><a href="#0" class="txt_doc">TABLAS DINÁMICAS</a><span>00:59</span></li>
+                                                <li><a href="#0" class="txt_doc">Creación de macros a través de Grabar Macro</a><span>00:59</span></li>
                                             </ul>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <!-- /card -->
-                            <div class="card">
-                                <div class="card-header" role="tab" id="headingTwo">
-                                    <h5 class="mb-0">
-                                        <a class="collapsed" data-toggle="collapse" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                            <i class="indicator ti-plus"></i>Generative Modeling Review
-                                        </a>
-                                    </h5>
-                                </div>
-                                <div id="collapseTwo" class="collapse" role="tabpanel" aria-labelledby="headingTwo" data-parent="#accordion_lessons">
-                                    <div class="card-body">
-                                        <div class="list_lessons">
-                                            <ul>
-                                                <li><a href="https://www.youtube.com/watch?v=LDgd_gUcqCw" class="video">Health Science</a><span>00:59</span></li>
-                                                <li><a href="https://www.youtube.com/watch?v=LDgd_gUcqCw" class="video">Health and Social Care</a><span>00:59</span></li>
-                                                <li><a href="https://www.youtube.com/watch?v=LDgd_gUcqCw" class="video">History</a><span>00:59</span></li>
-                                                <li><a href="https://www.youtube.com/watch?v=LDgd_gUcqCw" class="video">Healthcare Science</a><span>00:59</span></li>
-                                                <li><a href="#0" class="txt_doc">Audiology</a><span>00:59</span></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- /card -->
-                            <div class="card">
-                                <div class="card-header" role="tab" id="headingThree">
-                                    <h5 class="mb-0">
-                                        <a class="collapsed" data-toggle="collapse" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                            <i class="indicator ti-plus"></i>Variational Autoencoders
-                                        </a>
-                                    </h5>
-                                </div>
-                                <div id="collapseThree" class="collapse" role="tabpanel" aria-labelledby="headingThree" data-parent="#accordion_lessons">
-                                    <div class="card-body">
-                                        <div class="list_lessons">
-                                            <ul>
-                                                <li><a href="https://www.youtube.com/watch?v=LDgd_gUcqCw" class="video">Health Science</a><span>00:59</span></li>
-                                                <li><a href="https://www.youtube.com/watch?v=LDgd_gUcqCw" class="video">Health and Social Care</a><span>00:59</span></li>
-                                                <li><a href="https://www.youtube.com/watch?v=LDgd_gUcqCw" class="video">History</a><span>00:59</span></li>
-                                                <li><a href="https://www.youtube.com/watch?v=LDgd_gUcqCw" class="video">Healthcare Science</a><span>00:59</span></li>
-                                                <li><a href="#0" class="txt_doc">Audiology</a><span>00:59</span></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- /card -->
-
-                            <div class="card">
-                                <div class="card-header" role="tab" id="headingFourth">
-                                    <h5 class="mb-0">
-                                        <a class="collapsed" data-toggle="collapse" href="#collapseFourth" aria-expanded="false" aria-controls="collapseFourth">
-                                            <i class="indicator ti-plus"></i>Gaussian Mixture Model Review
-                                        </a>
-                                    </h5>
-                                </div>
-                                <div id="collapseFourth" class="collapse" role="tabpanel" aria-labelledby="headingFourth" data-parent="#accordion_lessons">
-                                    <div class="card-body">
-                                        <div class="list_lessons">
-                                            <ul>
-                                                <li><a href="https://www.youtube.com/watch?v=LDgd_gUcqCw" class="video">Health Science</a><span>00:59</span></li>
-                                                <li><a href="https://www.youtube.com/watch?v=LDgd_gUcqCw" class="video">Health and Social Care</a><span>00:59</span></li>
-                                                <li><a href="https://www.youtube.com/watch?v=LDgd_gUcqCw" class="video">History</a><span>00:59</span></li>
-                                                <li><a href="https://www.youtube.com/watch?v=LDgd_gUcqCw" class="video">Healthcare Science</a><span>00:59</span></li>
-                                                <li><a href="#0" class="txt_doc">Audiology</a><span>00:59</span></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- /card -->
                         </div>
                         <!-- /accordion -->
+                        <p><h2>DETALLES DEL CURSO:</h2></p>
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <ul class="bullets">
+                                    <li>Los cursos son los días Sábado, durante 4 semanas seguidas </li>
+                                    <li>El próximo curso parte el Sábado 02-11-2019 </li>
+                                    <li>El curso parte en nivel básico y termina en nivel intermedio-avanzado </li>
+                                    <li>Mínimo 4 alumnos por curso</li>
+                                    <li>El curso incluye asesoría permanente para cualquier consulta relacionada con Excel </li>
+                                    <li>El curso se puede tomar en 2 horarios:
+                                        <ul>
+                                            <li>De 9.00 a 12.30 hrs</li>
+                                            <li>De 13.30 a 17.00 hrs</li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                                
+                            </div>
+                        </div>
+                        <hr>
                     </section>
                     <!-- /section -->
                     
-                    <section id="reviews">
-                        <h2>Reviews</h2>
-                        <div class="reviews-container">
-                            <div class="row">
-                                <div class="col-lg-3">
-                                    <div id="review_summary">
-                                        <strong>4.7</strong>
-                                        <div class="rating">
-                                            <i class="icon_star voted"></i><i class="icon_star voted"></i><i class="icon_star voted"></i><i class="icon_star voted"></i><i class="icon_star"></i>
-                                        </div>
-                                        <small>Based on 4 reviews</small>
-                                    </div>
-                                </div>
-                                <div class="col-lg-9">
-                                    <div class="row">
-                                        <div class="col-lg-10 col-9">
-                                            <div class="progress">
-                                                <div class="progress-bar" role="progressbar" style="width: 90%" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-2 col-3"><small><strong>5 stars</strong></small></div>
-                                    </div>
-                                    <!-- /row -->
-                                    <div class="row">
-                                        <div class="col-lg-10 col-9">
-                                            <div class="progress">
-                                                <div class="progress-bar" role="progressbar" style="width: 95%" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"></div>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-2 col-3"><small><strong>4 stars</strong></small></div>
-                                    </div>
-                                    <!-- /row -->
-                                    <div class="row">
-                                        <div class="col-lg-10 col-9">
-                                            <div class="progress">
-                                                <div class="progress-bar" role="progressbar" style="width: 60%" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100"></div>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-2 col-3"><small><strong>3 stars</strong></small></div>
-                                    </div>
-                                    <!-- /row -->
-                                    <div class="row">
-                                        <div class="col-lg-10 col-9">
-                                            <div class="progress">
-                                                <div class="progress-bar" role="progressbar" style="width: 20%" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-2 col-3"><small><strong>2 stars</strong></small></div>
-                                    </div>
-                                    <!-- /row -->
-                                    <div class="row">
-                                        <div class="col-lg-10 col-9">
-                                            <div class="progress">
-                                                <div class="progress-bar" role="progressbar" style="width: 0" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"></div>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-2 col-3"><small><strong>1 stars</strong></small></div>
-                                    </div>
-                                    <!-- /row -->
-                                </div>
-                            </div>
-                            <!-- /row -->
-                        </div>
-
-                        <hr>
-
-                        <div class="reviews-container">
-
-                            <div class="review-box clearfix">
-                                <figure class="rev-thumb"><img src="http://via.placeholder.com/150x150/ccc/fff/avatar1.jpg" alt="">
-                                </figure>
-                                <div class="rev-content">
-                                    <div class="rating">
-                                        <i class="icon_star voted"></i><i class="icon_star voted"></i><i class="icon_star voted"></i><i class="icon_star voted"></i><i class="icon_star"></i>
-                                    </div>
-                                    <div class="rev-info">
-                                        Admin – April 03, 2016:
-                                    </div>
-                                    <div class="rev-text">
-                                        <p>
-                                            Sed eget turpis a pede tempor malesuada. Vivamus quis mi at leo pulvinar hendrerit. Cum sociis natoque penatibus et magnis dis
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- /review-box -->
-                            <div class="review-box clearfix">
-                                <figure class="rev-thumb"><img src="http://via.placeholder.com/150x150/ccc/fff/avatar2.jpg" alt="">
-                                </figure>
-                                <div class="rev-content">
-                                    <div class="rating">
-                                        <i class="icon-star voted"></i><i class="icon_star voted"></i><i class="icon_star voted"></i><i class="icon_star voted"></i><i class="icon_star"></i>
-                                    </div>
-                                    <div class="rev-info">
-                                        Ahsan – April 01, 2016:
-                                    </div>
-                                    <div class="rev-text">
-                                        <p>
-                                            Sed eget turpis a pede tempor malesuada. Vivamus quis mi at leo pulvinar hendrerit. Cum sociis natoque penatibus et magnis dis
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- /review-box -->
-                            <div class="review-box clearfix">
-                                <figure class="rev-thumb"><img src="http://via.placeholder.com/150x150/ccc/fff/avatar3.jpg" alt="">
-                                </figure>
-                                <div class="rev-content">
-                                    <div class="rating">
-                                        <i class="icon-star voted"></i><i class="icon_star voted"></i><i class="icon_star voted"></i><i class="icon_star voted"></i><i class="icon_star"></i>
-                                    </div>
-                                    <div class="rev-info">
-                                        Sara – March 31, 2016:
-                                    </div>
-                                    <div class="rev-text">
-                                        <p>
-                                            Sed eget turpis a pede tempor malesuada. Vivamus quis mi at leo pulvinar hendrerit. Cum sociis natoque penatibus et magnis dis
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- /review-box -->
-                        </div>
-                        <!-- /review-container -->
-                    </section>
                     <!-- /section -->
                 </div>
+                
                 <!-- /col -->
                 
 
