@@ -7,7 +7,7 @@
                     <h3><strong>De Cero a Avanzado con </strong><br>Gestion Excel</h3>
                     <p>Transformate en un <strong>maestro en excel</strong> con nuestro curso</p>
                 </div>
-                <a href="/#admision" class="btn_explore hidden_tablet"><i class="ti-arrow-down"></i></a>
+                <a href="#admision" class="btn_explore hidden_tablet"><i class="ti-arrow-down"></i></a>
             </div>
             <img src="img/video_fix.png" alt="" class="header-video--media" data-video-src="video/intro" data-teaser-source="video/intro" data-provider="" data-video-width="1920" data-video-height="960">
         </section>

@@ -40,7 +40,7 @@
 			<a href="/"><img src="img/logo.png" width="149" height="42" data-retina="true" alt=""></a>
 		</div>
 		<ul id="top_menu">
-			<li class="hidden_tablet"><a href="#admision" class="btn_1 rounded">Admisión</a></li>
+			<li class="hidden_tablet"><a href="../#admision" class="btn_1 rounded">Admisión</a></li>
 		</ul>
 		<!-- /top_menu -->
 		<a href="#menu" class="btn_mobile">
@@ -97,7 +97,7 @@
 				<div class="col-lg-3 col-md-6 ml-lg-auto">
 					<h5>Links útiles</h5>
 					<ul class="links">
-						<li><a href="#admision">Admisión</a></li>
+						<li><a href="../#admision">Admisión</a></li>
 					</ul>
 				</div>
 				<div class="col-lg-3 col-md-6">
