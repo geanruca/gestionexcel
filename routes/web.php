@@ -11,6 +11,12 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+Route::get('/','PagesController@inicio');
+Route::get('/contacto','PagesController@contacto');
+Route::post('/enviar_contacto','PagesController@enviar_contacto')->name('enviar_contacto');
+Route::get('/temario','PagesController@temario');
+Route::get('/admin/logs', '\Rap2hpoutre\LaravelLogViewer\LogViewerController@index');
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
