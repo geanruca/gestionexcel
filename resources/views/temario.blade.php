@@ -51,7 +51,7 @@
                             <div class="price">
                                 $100.000<span class="original_price"><em>$200.000</em>50% dcto</span>
                             </div>
-                            <a href="#0" class="btn_1 full-width">Comprar</a>
+                            <a href="https://www.flow.cl/btn.php?token=1m19eam" class="btn_1 full-width">Comprar</a>
                         </div>
                     </div>    
                         
