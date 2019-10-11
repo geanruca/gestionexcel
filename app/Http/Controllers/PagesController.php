@@ -48,8 +48,8 @@ class PagesController extends Controller
                
             Mail::to('gerardo.ruiz@gestionexcel.cl')
             ->queue(new NuevoContacto($c, $historial));
-            Mail::to('gruizrojas@gmail.com')
-            ->queue(new NuevoContacto($c, $historial));
+            // Mail::to('gruizrojas@gmail.com')
+            // ->queue(new NuevoContacto($c, $historial));
         }
 
         return back()->with('flash','Mensaje enviado con éxito. Nos pondremos en contacto con usted a la brevedad.');
