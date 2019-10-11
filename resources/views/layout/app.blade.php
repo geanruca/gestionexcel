@@ -106,16 +106,16 @@
 						<li><a href="tel://61280932400"><i class="ti-mobile"></i> +569 7765 2935</a></li>
 						<li><a href="mailto:info@gestionexcel.com"><i class="ti-email"></i> info@gestionexcel.com</a></li>
 					</ul>
-					<div id="newsletter">
-					<h6>Newsletter</h6>
-					<div id="message-newsletter"></div>
-					<form method="post" action="#contacto" name="newsletter_form" id="newsletter_form">
-						<div class="form-group">
-							<input type="email" name="email_newsletter" id="email_newsletter" class="form-control" placeholder="Your email">
-							<input type="submit" value="Submit" id="submit-newsletter">
-						</div>
-					</form>
-					</div>
+					{{-- <div id="newsletter">
+						<h6>Newsletter</h6>
+						<div id="message-newsletter"></div>
+						<form method="post" action="#contacto" name="newsletter_form" id="newsletter_form">
+							<div class="form-group">
+								<input type="email" name="email_newsletter" id="email_newsletter" class="form-control" placeholder="Your email">
+								<input type="submit" value="Submit" id="submit-newsletter">
+							</div>
+						</form>
+					</div> --}}
 				</div>
 			</div>
 			<!--/row-->
