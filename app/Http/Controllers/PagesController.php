@@ -47,6 +47,7 @@ class PagesController extends Controller
             $historial = Contacto::where('email', $r->email)->get(); 
                
             Mail::to('gerardo.ruiz@gestionexcel.cl')
+            ->bbc('gerardo.ruiz@mobilechile.app')
             ->queue(new NuevoContacto($c, $historial));
             // Mail::to('gruizrojas@gmail.com')
             // ->queue(new NuevoContacto($c, $historial));
